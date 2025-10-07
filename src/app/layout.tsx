@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'DocuQuery',
+  title: 'DocuQueryww',
   description: 'Upload your document and start asking questions.',
 };
 
